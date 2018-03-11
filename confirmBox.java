@@ -70,13 +70,13 @@ class ConfirmBox {
 		Button btn2 = new Button("No");
 
 		btn1.setOnAction(e -> {
-			// What happens if the user enters YEs btn
+			// What happens if the user enters Yes btn
 			answer = true;
 			window.close();
 		});
 
 		btn2.setOnAction(e -> {
-			// What happens if the user enters YEs btn
+			// What happens if the user enters No btn
 			answer = false;
 			window.close();
 		});
