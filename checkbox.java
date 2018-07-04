@@ -6,7 +6,7 @@ import javafx.scene.Node;
 import javafx.scene.Scene;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
-
+// Changes are added here
 
 import javafx.application.Application;
 import javafx.event.ActionEvent;
